@@ -5,3 +5,4 @@ hvplot
 bokeh
 matplotlib
 seaborn
+streamlit
