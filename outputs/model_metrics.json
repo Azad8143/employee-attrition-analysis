@@ -1,0 +1,17 @@
+{
+  "Logistic Regression": {
+    "roc_auc": 0.7941,
+    "quit_precision": 0.3529,
+    "quit_recall": 0.6383
+  },
+  "Random Forest": {
+    "roc_auc": 0.7485,
+    "quit_precision": 0.4194,
+    "quit_recall": 0.2766
+  },
+  "HistGradientBoosting": {
+    "roc_auc": 0.7331,
+    "quit_precision": 0.6154,
+    "quit_recall": 0.1702
+  }
+}
