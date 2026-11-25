@@ -3,4 +3,4 @@ __pycache__/
 .venv/
 venv/
 .ipynb_checkpoints/
-outputs/figures/*.png
+outputs/figures/*.png.DS_Store
